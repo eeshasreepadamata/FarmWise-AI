@@ -2,7 +2,7 @@
 
 <img src="Frontend/src/components/img/logo.png" alt="FarmWise.AI logo" width="120"/>
 
-# 🌾 FarmWise.AI
+# 🌾 FarmWise - AI
 
 **A full-stack smart farming platform that helps smallholder farmers make better, data-driven decisions.**
 
@@ -21,7 +21,7 @@
 
 ## 📖 Overview
 
-FarmWise.AI is a full-stack web platform built to help **smallholder farmers** — a large share of whom in India speak regional languages and lack easy access to agronomic expertise — make better decisions about what to grow, how to protect it, and how much to expect from a harvest.
+FarmWise - AI is a full-stack web platform built to help **smallholder farmers** — a large share of whom in India speak regional languages and lack easy access to agronomic expertise — make better decisions about what to grow, how to protect it, and how much to expect from a harvest.
 
 The platform combines four independent **machine learning models**, a **generative AI assistant** (Google Gemini), live **weather** and **agriculture news** data, and **multi-language support** (English, Hindi, Telugu, Marathi, Bengali) into a single, easy-to-use interface — so a farmer can go from "what should I plant?" to "is my crop diseased?" to "what yield can I expect?" without needing separate tools or technical expertise.
 
